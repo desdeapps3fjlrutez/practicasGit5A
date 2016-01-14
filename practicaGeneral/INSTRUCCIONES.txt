@@ -1,0 +1,28 @@
+PRACTICA GENERAL DE GIT - CONTROL DE VERSIONES
+
+NOTA: Esta práctica se realiza en equipos del tamaño dependiendo de su grupo
+NOTA2: Cada equipo se le asigno un color, será el identificador en sus carpetas de archivos
+
+La práctica consta de lo siguiente:
+
+Cada equipo deberá entregar una página web con:
+�
+** 5 secciones (páginas)
+** Imágenes
+** 1 video embebido de youtube en toda la página
+** HTML5
+** CSS (puede ser un framework como Bootstrap o simple CSS)[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C NOTA: Cada sección debe contener míni 3 paárrafos[B[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[B[A[A
+
+ESTA PÁGINA WEB NO ES LA PRÁCTICA CON GIT, EL OBJETIVO DE HACER ES LO SIGUIENTE:
+
+- Deberán repartirse el trabajo de forma equitativa
+- Todo el equipo trabajará en un repositorio de algun miembro del equipo dentro de su cuenta de GITHUB
+- DEBERÁN USAR TODOS LOS COMANDOS VISTOS EN CLASE DE GIT AL HACER LA P�ÁGINA, ya sea que se los repartan o lo hagan al final
+
+AL FINAL DEBERÁN ENTREGAR:
+1) Página web terminada en una carpeta con el nombre del COLOR de su equipo, que deberán subir al repositorio "[D[Cgitdesdeapps3" en la sección de practicaGeneral"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[carpeta[C[C[C[C[C[C[C[D[D[D"[C[C[D[D[D[CpracticaGeneral"
+2) Dentro de su carpeta de la página web, deberán entregar un archivo .txt el cual deberá contener todos los comandos que debieron usar de GIT mientras hacían su página web
+
+Cualquier duda me pueden consultar v�ía correo y whatsapp
+
+:D

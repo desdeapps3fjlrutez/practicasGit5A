@@ -1,0 +1,212 @@
+commit 78033557c1a4f2d81006cae656e1f1622d44d30c
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 22:21:52 2016 -0600
+
+    kjjkkh
+
+commit 3d2690a886b7009c33f40a11e3d89e4f3a125a92
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 22:12:27 2016 -0600
+
+    hgfhjghjg
+
+commit 32b783ba177d2c8834f8e35e312a33ab9b2ab78f
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 22:06:55 2016 -0600
+
+    hgfhjg
+
+commit 15eb67a609c0ceb4e3220442ad138e641ebcfa47
+Merge: 5419478 113c5af
+Author: Noe <intera7xgmail.com>
+Date:   Sun Jan 17 20:49:25 2016 -0600
+
+    Merge origin/master
+
+commit 54194788dc7e2fbf9a866a43d50761ce8f090638
+Author: Noe <intera7xgmail.com>
+Date:   Sun Jan 17 20:48:17 2016 -0600
+
+    index final
+
+commit 113c5af7457da1f0273e55b93b9bbdf7d246319c
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 20:40:15 2016 -0600
+
+    header pop
+
+commit dfb2fbdbcc9b4c0058218fd0b2d0fd9daed432ec
+Author: Noe <intera7xgmail.com>
+Date:   Sun Jan 17 20:35:05 2016 -0600
+
+    seccion 4 final
+
+commit 1e9924f3fd750de046c2456d8ef09019c4804e2a
+Author: Noe <intera7xgmail.com>
+Date:   Sun Jan 17 20:22:59 2016 -0600
+
+    index
+
+commit 1e4a4655dfda6355700f9d8ecd7a004225bf2930
+Author: Noe <intera7xgmail.com>
+Date:   Sun Jan 17 20:22:40 2016 -0600
+
+    index
+
+commit cb7413168cffe4e5a57d9480a6dfa69bc544226e
+Merge: ff88103 0f40ac7
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 19:46:21 2016 -0600
+
+    Merge branch 'master' of https://github.com/Josias0296/Rojo
+    Antes de los enlaces
+
+commit ff88103882c29b544f1f10a577121ed383d8d2fa
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 19:45:39 2016 -0600
+
+    Enlaces en los header
+
+commit 0f40ac7091ecb77dde23f2ae5164f22fbe2e0741
+Merge: 052aaeb 81c2013
+Author: NeMoVarela <intera7x@gmail.com>
+Date:   Sun Jan 17 19:12:37 2016 -0600
+
+    Merge pull request #6 from Josias0296/Noe
+    
+    nuevo.css
+
+commit 81c20135a877e5e7d34d8b6ae73516db52d9de49
+Author: Noe <intera7xgmail.com>
+Date:   Sun Jan 17 19:09:57 2016 -0600
+
+    nuevo.css
+
+commit 89d0b71bca99fd4ff1b101d5170b7128710c3b8c
+Merge: 5cb56c3 052aaeb
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 18:31:18 2016 -0600
+
+    Merge branch 'master' of https://github.com/Josias0296/Rojo
+    Unión del repositorio de Josias
+
+commit 5cb56c3563557fbe3a9ba5131d027e2fb07b55b6
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 18:31:03 2016 -0600
+
+    Arreglando index.hmtl...,creo
+
+commit 052aaeb3d6c1c9485adac0a24069412911f2797f
+Author: John Doe <movillalobos.datic@utez.edu.mx>
+Date:   Sun Jan 17 08:56:05 2016 -0600
+
+    añadiendo  rock
+
+commit eb884e8b8583121822569007010e86373e51611c
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 00:05:27 2016 -0600
+
+    Arreglando index...
+
+commit c85f943aae628987fd6562408bfaf071b4da0874
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 00:03:08 2016 -0600
+
+    quitando el head y una dirección de memoria que incrusto en el index
+
+commit f5f9690708f211d8ecbf28675c69eb8c41912f6e
+Merge: af6493c 77e83ec
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sun Jan 17 00:02:13 2016 -0600
+
+    Resolviendo un error Fix them up in the work tree, and then use 'git add/rm <file>'
+
+commit af6493c44f0ebdb57286b804ad60a7b24e6fd30b
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Sat Jan 16 22:34:16 2016 -0600
+
+    Página sección 2, POP
+
+commit 77e83ec9a278512ee3be53d57e2c0f43b9ee21ea
+Merge: 500da7d 94421d5
+Author: NeMoVarela <intera7x@gmail.com>
+Date:   Sat Jan 16 14:23:28 2016 -0600
+
+    Merge pull request #4 from Josias0296/Noe
+    
+    Noe
+
+commit 94421d5b9733ff351f0cddec0bc55f25d0cf956b
+Author: Noe <intera7xgmail.com>
+Date:   Sat Jan 16 14:21:34 2016 -0600
+
+    index nueva version
+
+commit a58ca3b86b73095bbc029d40fbba89102f235daf
+Merge: 1d5b31c 500da7d
+Author: NeMoVarela <intera7x@gmail.com>
+Date:   Sat Jan 16 13:11:02 2016 -0600
+
+    Merge pull request #3 from Josias0296/master
+    
+    Agregando la parte de Kevin
+
+commit 500da7d3bc17e61a8a31b803dd50dc2a66c4ff79
+Author: Alumno <Alumno@Alumno-PC>
+Date:   Fri Jan 15 10:43:50 2016 -0600
+
+commit 78418f9512a4f42d335b154d41d49910ba8486f1
+Author: Kevin Leyva <desachanel.kevin@gmail.com>
+Date:   Fri Jan 15 00:05:43 2016 -0600
+
+commit 1343e69a9a90e9bb5420d9660b25d89cbb6a48e4
+Author: Kevin Leyva <desachanel.kevin@gmail.com>
+Date:   Thu Jan 14 23:59:51 2016 -0600
+
+commit c4560cdf43e4250ee0490180afaffed670bfa451
+Merge: e7f57eb 1d5b31c
+Author: NeMoVarela <intera7x@gmail.com>
+Date:   Thu Jan 14 23:21:06 2016 -0600
+
+    Merge pull request #2 from Josias0296/Noe
+    
+    css para index
+
+commit 1d5b31c065fc684399bfff9b36d481d8d32da1e2
+Author: Noe <intera7xgmail.com>
+Date:   Thu Jan 14 23:17:23 2016 -0600
+
+    css para index
+
+commit e7f57eb4fad526fc4982347d44bd222f2f8271eb
+Merge: 3ec7381 6dd92d5
+Author: NeMoVarela <intera7x@gmail.com>
+Date:   Thu Jan 14 23:06:23 2016 -0600
+
+    Merge pull request #1 from Josias0296/Noe
+    
+    Index, con el primer Menú y el video de youtube
+
+commit 6dd92d5dd3e151bc039d4bf24b668737ced0bd3d
+Author: Noe <intera7xgmail.com>
+Date:   Thu Jan 14 23:03:40 2016 -0600
+
+    Index, con el primer Menú y el video de youtube
+
+commit 3ec73811cbbf35f7c7959d32d3e59390ba0bc961
+Author: Noe <intera7xgmail.com>
+Date:   Thu Jan 14 21:35:56 2016 -0600
+
+    Rama Commit
+
+commit 759f56061344b878fe5329d80e30396c0774725b
+Author: Josias Aparicio Martínez <jsaparicio.datic@utez.edu.mx>
+Date:   Thu Jan 14 20:53:55 2016 -0600
+
+    Initial commit. Estructura de trabajo
+
+commit 29d6f8950e8b10802db3f5ebdbf7785e9e5bec90
+Author: Josias0296 <Josias0296@users.noreply.github.com>
+Date:   Thu Jan 14 20:47:28 2016 -0600
+
+    Initial commit

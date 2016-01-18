@@ -1,0 +1,232 @@
+   11  git
+   12  git --version
+   26  git log
+   27  rdm -r repositoriogit
+   28  rm -r repositoriogit
+   29  mkdir repositoriogit
+   31  cd repositoriogit
+   32  git init
+   34  git help
+   35  git config --global user.name "Josias"
+   36  git config --global user.email "josias_apa@hotmail.com"
+   37  git config --global core.editor notepad
+   38  git 
+   39  git version
+   40  git show
+   41  git --global
+   42  git --info-path
+   43  git status
+   44  git config --list
+   46  git status
+   47  git add hola
+   48  git add hola.txt
+   50  git status
+   51  git commit -m "Initial commit"
+   52  git show
+   54  git status
+   55  git add hola.txt
+   56  git status
+   57  git commit -m "second commit"
+   58  git show
+   59  git log show
+   60  git log --online
+   61  git log --oneline
+   62  git show log <f437c6d>
+   63  git show log f437c6d
+   64  git show log f437c6d
+   65  git log show f437c6d
+   66  git log --show f437c6d
+   67  git log show --f437c6d
+   68  git log show -- f437c6d
+   69  git show f437c6d
+   70  git show f437c6d
+   71  git status
+   78  git diff
+   80  git status
+   82  git status
+   83  git diff
+   84  git add
+   85  git add .
+   86  git diff --staged
+   87  git diff
+   88  git diff --staged
+   90  git add .
+   92  git add .
+   93  git commit -m "comer"
+  106  git --global user.name "Josias"
+  107  git config --global user.name "Josias"
+  108  git config --global user.email "jsaparicio.datic@utez.edu.mx"
+  109  git config --global user.core notepad
+  112  git global --list
+  113  git global --list
+  114  git --list
+  115  git log --list
+  116  git --list
+  117  git ..help
+  118  git --help
+  119  git init
+  120  git config --global user.name "Josias"
+  121  git config --global user.email "jsaparicio.datic@utez.edu.mx"
+  122  git config --global user.core notepad
+  123  git --list
+  124  git log --list
+  125  git global --list
+  126  git config --list
+  129  git clone https://github.com/Josias0296/Aplicaciones.git
+  136  git config --list
+  137  git config --global user.name "Josias Aparicio Mtz"
+  138  git config --global user.email "jsaparicio.datic@utez.edu.mx"
+  139  git config --global user.core notepad
+  140  git global --list
+  141  git config --list
+  142  git log
+  143  git status 
+  144  git add
+  145  git add .
+  146  git commit -m "Initial commit. Creación del proyecto"
+  147  git push
+  148  git push
+  149   git config --global push.default matching
+  150  git push
+  151  git push
+  152  git push
+  153  git status
+  154  git add .
+  158  git breanch JosiasAparicio
+  159  git branch JosiasAparicio
+  160  git checkout JosiasAparicio
+  161  git status
+  162  git add .
+  163  git commit -m "Intentando subir Unit Tests"
+  164  git checkout master
+  165  git merge JosiasAparicio
+  166  git push
+  167  git pull
+  168  git push
+  170  git status
+  171  git add
+  172  git add .
+  173  git status
+  174  git pull
+  175  git push
+  180  git clone https://github.com/Josias0296/Rojo.git
+  184  git config --global user.name "Josias Aparicio Martínez"
+  185  git confign --global user.email "jsaparicio.datic@utez.edu.mx"
+  186  git config --global user.email "jsaparicio.datic@utez.edu.mx"
+  187  git config --global user.core notepad
+  189  git
+  190  git add .
+  191  git commit -m "Initial commit. Estructura de trabajo"
+  192  git push+
+  193  git push
+  194  git pull
+  195  git pull
+  196  git pull
+  197  git pull
+  198  git chekout JosiasAparicio
+  199  git checkout JosiasAparicio
+  200  git branch JosiasAparicio
+  201  git checkout JosiasAparicio
+  202  git status
+  203  git log
+  206  git status
+  207  git status
+  210  git pull
+  211  git checkout master
+  212  git pull
+  213  git checkout JosiasAparicio
+  215  git status
+  216  git add .
+  217  git add .
+  218  git commit -m "Página sección 2, POP"
+  219  git checkout master
+  220  git merge JosiasAparicio
+  221  git pull
+  222  git status
+  223  git diff --help
+  224  git diff master JosiasAparicio
+  225  git diff --staged master JosiasAparicio
+  226  git diff --staged 
+  229  git fetch --help
+  230  git merge JosiasAparicio
+  231  git checkout master
+  232  git checkout JosiasAparicio
+  233  git status
+  234  git add index.html
+  235  git add index.html
+  236  git merge JosiasAparicio
+  237  git add .
+  238  git merge JosiasAparicio
+  239  git commit -m "Resolviendo un error Fix them up in the work tree, and then use 'git add/rm <file>'"
+  240  git add .
+  241  git commit -m "quitando el head y una dirección de memoria que incrusto en el index"
+  242  git pull
+  243  git add .
+  244  git commit -m "Arreglando index..."
+  245  git pull
+  246  git push
+  247  git pull
+  250  git pull+
+  251  git pull
+  252  git status+
+  253  git status
+  254  git checkout --index.html
+  255  git checkout -- index.html
+  257  git status
+  260  git log
+  261  git log
+  262  git status
+  263  git add
+  264  git add .
+  265  git commit -m "Arreglando index.hmtl...,creo"
+  266  git status
+  267  git pull
+  268  git pull
+  269  git add .
+  270  git add .
+  271  git commit -m "Enlaces en los header "
+  272  git push
+  273  git pull
+  274  git push
+  275  git pull
+  276  git status
+  277  git pull
+  278  git pull
+  279  git push
+  280  git add .
+  281  git commit -m "header pop"
+  282  git push
+  283  git pull
+  284  git pull
+  285  git pull
+  286  git pull
+  287  git pull
+  289  git pull
+  290  git pull
+  291  git pull
+  292  git pull
+  293  git pull
+  294  git pull
+  295  git pull
+  296  git pull
+  297  git add .
+  298  git status
+  299  git comit -m "hgfhjg"
+  300  git commit -m "hgfhjg"
+  301  git pull
+  303  git pull
+  304  git pull
+  305  git add .
+  306  git commit -m "hgfhjghjg"
+  307  git pull
+  308  git push
+  309  git pull
+  310  git pull
+  311  git add .
+  312  git add .
+  313  git commit -m "kjjkkh"
+  314  git pull
+  315  git push
+  316  git pull
+  318  history | grep git
+  319  history | grep git >> comandos.txt

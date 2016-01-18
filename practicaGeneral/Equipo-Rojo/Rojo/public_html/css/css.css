@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+table {
+     width:1000px;
+    position: absolute;
+    left:0;
+    text-align: center;
+        color: black;
+        border: #A91815;
+}
+body
+{
+	font-family: fantasy;
+	background: #F78181;
+}

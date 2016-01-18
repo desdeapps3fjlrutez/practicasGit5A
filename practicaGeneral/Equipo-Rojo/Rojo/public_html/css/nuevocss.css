@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-ene-2016, 22:06:32
+    Author     : NeMo
+*/
+body
+{
+	font-family: fantasy;
+	background: #F78181;
+}
+
+header {
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+}
+ 
+nav {
+    background:#B40404;
+    margin-top:20px;
+    position: relative;
+}
+ 
+nav ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+}
+ 
+nav > ul > li {
+    float:left;
+}
+ 
+nav ul li a {
+    text-decoration:none;
+    color:#fff;
+    display:block;
+    padding:10px 20px;
+}
+ 
+nav ul li a:hover {
+    background:#c94b4b;
+}
+ 
+nav > ul > li:hover div {
+    display:table;
+}
+ 
+
+nav ul li div {
+    width:1000px;
+    position: absolute;
+    left:0;
+    background:#ccc;
+    box-sizing:border-box;
+    display:none;
+}
+ 
+nav ul li div ul{
+    width:20%;
+    display:table-cell;
+    border-right:1px solid rgba(255,255,255,.5);
+    box-sizing:border-box;
+}
+ 
+nav ul li div ul:last-child {
+    border:none;
+}
+ 
+nav ul li div ul .titulo {
+    background:#000;
+    color:#fff;
+}
+ 
+nav ul li div ul .titulo a {
+    color:#fff;
+    padding:10px 20px;
+}
+ 
+.titulo.azul {background:#3498db;}
+.titulo.verde{background:#27ae60;}
+.titulo.naranja {background:#F4B404;}
+.titulo.rojo {background:#3498db; color:#000;}
+.naranja.fuerte{background: #DF0101;}
+.amarillo{background: #F0CE0D;}
+nav ul li div ul .titulo a:hover {
+    background:none;
+}
+ 
+nav ul li div ul li a {
+    color:#000;
+}
+ 
+nav ul li div ul li a:hover {
+    color:#fff;
+}
+nav ul li a
+{
+	padding: 10px 15px;
+	display: block;
+	-webkit-transition:all .3s ease-in-out;
+	-moz-transition:all .3s ease-in-out;
+	-ma-transition:all .3s ease-in-out;
+	-o-transition:all .3s ease-in-out;
+	trasition:all .3s ease-in-out;
+}
+nav ul li a:hover
+{
+	-webkit-box-shadow:0px -4px 0px #006699 inset;
+	box-shadow:0px -4px 0px #006699 inset;
+}
+
+article
+{
+  
+}
+

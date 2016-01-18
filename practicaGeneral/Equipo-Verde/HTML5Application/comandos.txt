@@ -1,0 +1,47 @@
+    8  git config --global user.email "toyortiz22@gmail.com"
+    9  git config --global user.name "toyOrtizM"
+   10  git --version
+   15  git init
+   16  git config --user.name"hector"
+   17  git config --user.name "hector"
+   18  git config -- user.name "hector"
+   19  git config -- user.email "toyortiz22@gmail.com"
+   20  git config -- list
+   21  git config --list
+   22  git status
+   28  git innit
+   31  git config --list
+   32  git status
+   33  git add
+   35  git status
+   36  git add
+   37  git add pgGit.txt
+   38  git status
+   39  git commit
+   44  git status
+   45  git add pgGit.txt
+   46  git status
+   47  git commit
+   52  git status
+   53  git config --list
+   54  git config --global core.editor notepad
+   55  git commit
+   61  git clone https://github.com/alejandro002/Equipo-Verde.git
+   65  git init
+   68  git init
+   69  git config global --user.name "hector"
+   70  git config global --user.name"hector"
+   71  git config global -- user.name"hector"
+   72  git config global -- user.name "hector"
+   73  git config -- user.email "toyortiz22@gmail.com"
+   74  git config global -- user.name "hector"
+   75  git status
+   76  git add
+   77  git add .
+   78  git commit -m"inicia commit"
+   79  git status
+   80  git push
+   81  git pull
+   82  git push
+   83  git status
+   84  history | grep git >> comandos.txt

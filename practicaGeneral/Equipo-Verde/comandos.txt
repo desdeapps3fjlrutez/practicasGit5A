@@ -1,0 +1,85 @@
+alejandro:    3  git clone https://github.com/alejandro002/Equipo-Verde.git
+alejandro:    7  git status
+alejandro:    8  git add .
+alejandro:    9  git status
+alejandro:   10  git commit-m"commit inicial"
+alejandro:   11  git commit-m "commit inicial"
+alejandro:   12  git status
+alejandro:   13  git commit -m"initial commit"
+alejandro:   17  git congig --global user.email "sate002@gmail.com"
+alejandro:   18  git config --global user.email "sate002@gmail.com"
+alejandro:   19  git config --global core.editor notepad
+alejandro:   23  git status
+alejandro:   24  git commit -m"initial commit
+alejandro:   25  git status
+alejandro:   27  git status
+alejandro:   28  git push
+alejandro:   29  history  | grep git >> comandos.txt
+hector:    8  git config --global user.email "toyortiz22@gmail.com"
+hector:    9  git config --global user.name "toyOrtizM"
+hector:   10  git --version
+hector:   15  git init
+hector:   16  git config --user.name"hector"
+hector:   17  git config --user.name "hector"
+hector:   18  git config -- user.name "hector"
+hector:   19  git config -- user.email "toyortiz22@gmail.com"
+hector:   20  git config -- list
+hector:   21  git config --list
+hector:   22  git status
+hector:   28  git innit
+hector:   31  git config --list
+hector:   32  git status
+hector:   33  git add
+hector:   35  git status
+hector:   36  git add
+hector:   37  git add pgGit.txt
+hector:   38  git status
+hector:   39  git commit
+hector:   44  git status
+hector:   45  git add pgGit.txt
+hector:   46  git status
+hector:   47  git commit
+hector:   52  git status
+hector:   53  git config --list
+hector:   54  git config --global core.editor notepad
+hector:   55  git commit
+hector:   61  git clone https://github.com/alejandro002/Equipo-Verde.git
+hector:   65  git init
+hector:   68  git init
+hector:   69  git config global --user.name "hector"
+hector:   70  git config global --user.name"hector"
+hector:   71  git config global -- user.name"hector"
+hector:   72  git config global -- user.name "hector"
+hector:   73  git config -- user.email "toyortiz22@gmail.com"
+hector:   74  git config global -- user.name "hector"
+hector:   75  git status
+hector:   76  git add
+hector:   77  git add .
+hector:   78  git commit -m"inicia commit"
+hector:   79  git status
+hector:   80  git push
+hector:   81  git pull
+hector:   82  git push
+hector:   83  git status
+hector:   84  history | grep git >> comandos.txt
+hector:   85  git add comandos.txt
+hector:   86  git push
+hector:   87  git remote add demo_app 'https://github.com/alejandro002/Equipo-Verde.git'
+hector:   88  git status
+hector:   89  git commit -m"inicia commit"
+hector:   91  git status
+hector:   92  history | grep git >> comandos.txt
+soledad:    1  git clone https://github.com/alejandro002/Equipo-Verde.git
+soledad:    2  git status
+soledad:    4  git status
+soledad:    5  git add .
+soledad:    6  git commit-m "initial commit"
+soledad:    7  git commit -m "commit initial"
+soledad:    8  git commit -m "commit initial"
+soledad:    9  git status
+soledad:   10  git add .
+soledad:   11  git status
+soledad:   12  git commit -m "commit"
+soledad:   13  git status
+soledad:   14  git push
+soledad:   15  history | grep git >>comandos.txt

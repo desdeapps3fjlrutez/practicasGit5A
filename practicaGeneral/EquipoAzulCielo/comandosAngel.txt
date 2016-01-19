@@ -1,0 +1,32 @@
+commit ef7cc4ff4e93e297f85b396bdced08e7b358c8b5
+
+Author: Angel-nofx <angel.abel426@gmail.com>
+
+Date:   Sat Jan 16 02:06:08 2016 -0600
+
+    
+
+  Pagina actualizada
+
+
+
+commit 3135fc3338740b3387cf34c56dd54991fd033ab7
+Author: Angel-nofx <angel.abel426@gmail.com>
+
+Date:   Fri Jan 15 05:01:05 2016 -0600
+
+    
+
+  Actualizacion pagina
+
+
+
+commit aab6c0954528752e2cd30efad93eb074f0d40e2f
+Author: Angel-nofx <angel.abel426@gmail.com>
+
+Date:   Fri Jan 15 04:49:17 2016 -0600
+
+    
+
+   Elemento de pagina
+

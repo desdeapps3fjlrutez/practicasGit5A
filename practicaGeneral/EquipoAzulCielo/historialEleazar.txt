@@ -1,0 +1,5 @@
+commit 1eed3d4ea17519179419426ba835d53f4f7084c4
+Author: Eleazar Sosa <jr.sosa_btec@hotmail.com>
+Date:   Thu Jan 14 20:06:21 2016 -0600
+
+    Commit inicial con los estilos, el index y el html de mi tema

@@ -1,0 +1,78 @@
+root { 
+    display: block;
+}
+
+h3 {
+    color:  #0186ba;
+    text-align: center;
+    text-shadow: 0px 1px #333;
+}
+
+form {
+    margin: 20px 150px 20px 150px;
+}
+
+input {
+    text-align: center;
+}
+
+fieldset{
+    border-radius: 0.7em;
+}
+
+#botonGuardar{
+    margin: 20px 0px 20px 0px;
+    position: absolute;
+}
+
+p {
+    text-align: center;
+}
+
+#dir{
+    text-align: center;
+    color: orange;
+    text-decoration-style: dashed;
+}
+
+#formFormulario{
+    text-align: center;
+}
+
+div table{
+    text-justify:  auto;
+    position: relative;
+    margin-left: 250px;
+    width: 1000px;
+}
+
+table th{
+    color: green;
+    text-align: center;
+}
+
+table tr{
+    text-align: center;
+}
+
+table td{
+    text-align: center;
+}
+
+input{
+    alignment-adjust: central;
+}
+#fieldsetServlet{
+    margin: 20px 200px 20px 200px;
+}
+
+#pindex{
+    text-align: center;
+    margin: 20px 150px 20px 150px;
+    border:  sandybrown solid;
+    padding: 10px 10px 10px 10px;
+}
+
+label{
+    font-size: 20px;
+}
